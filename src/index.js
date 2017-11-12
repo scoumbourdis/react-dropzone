@@ -1,6 +1,6 @@
 /* eslint prefer-template: 0 */
 
-//import React from 'react'
+// import React from 'react'
 import PropTypes from 'prop-types'
 import {
   supportMultiple,
